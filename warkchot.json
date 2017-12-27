@@ -1,0 +1,282 @@
+{
+    "origin": [
+        "#CONVO#", "#CONVO#", "#CONVO#", "#CONVO#", "#CONVO#", "#CONVO#", "#CONVO#", "#CONVO#", "#CONVO#",
+        "#POST#", "#POST#", "#POST#", "#POST#", "#POST#", "#POST#",
+        "#MEME#", "#MEME#", "#MEME#", "#MEME#", "#MEME#",
+        "#CHATNAME#",
+        "#LURK#",
+        "#VIDEOACCIDENT#",
+        "#MINESWEEPER#"
+    ],
+
+    "person": [
+        "Tom", "Lori", "DL", "Fredette", "Robin", "Andrew", "Mike", "Katy", "Ned", "Christina",
+        "Tom", "Lori", "DL", "Fredette", "Robin", "Andrew", "Mike", "Katy", "Ned", "Christina",
+        "Tom", "Lori", "DL", "Fredette", "Robin", "Tim's iPad", "Andrew", "Mike", "Katy", "Ned", "Christina",
+        "Tom", "Lori", "DL", "Fredette", "Robin", "Tim", "Andrew", "Andy", "Miller", "Carl", "Mike", "Katy", "Ned", "Christina"
+    ],
+
+    "topic": [
+        "iPads", "hand fruits", "beer", "craft beer", "IPAs", "double IPAs", "triple IPAs", "quadruple ales", "russian imperial stouts", "pilsners", "quadruple IPAs", "sour beers", "nitro cold brew", "libraries", "eggs", "AI", "artificial intelligence", "computers", "a new programming language", "Esperanto", "memes", "the Big E", "keto", "Mouse Hunt", "self driving cars", "fonts", "comic sans", "Undertale", "Game of Thrones", "Harry Potter", "running", "yoga", "millennials", "God", "Christianity", "Judaism", "bagels", "carbs", "computer security", "facebook", "Ted Cruz being the Zodiac Killer", "Trump", "Ajit Pai", "net neutrality", "Tommy Wiseau", "buffalo chicken dip", "science", "linguistics", "vacations", "bitcoin", "running shoes", "Pokemon Go", "Minesweeper", "interlibrary loans", "Dr. Steve Brule", "Tim & Eric", "ancient Egyptians", "aliens", "numbers stations", "reformed theology", "old video games", "vaccines", "poetry", "theology", "craft beer can art design", "painting", "web design", "The Walking Dead", "some new science thing", "some space thing", "some book thing", "2017", "podcasts", "computers", "grammar", "pizza", "good vs. bad bosses", "gilmore girls", "a new brewery", "AirBnB", "legos", "cupcakes", "burritos", "401ks", "twitter bots", "book lists", "hipsters", "beards", "a new board game", "vaporwave", "Elon Musk", "Google", "Apple", "computer keyboards", "bullet journaling", "Spotify playlists", "cats", "dogs", "universal basic income", "hoverboards", "Wikipedia", "beer dinners", "Spanish", "Duolingo", "Japanese", "JustTuesdayThings", "hashtags", "homeschooling", "toilets", "soap", "poopy pants", "Elven bathtubs", "toilet elves", "cooked fruit", "wheat beer", "Stalin", "healthcare", "generation gaps", "ugly Christmas sweaters", "After Effects", "good yankee swap gift ideas", "Reginald Does His Thang", "Yahoo", "the Beaver Moon", "Photoshop", "drinking games", "coffee", "pour overs", "fish oil", "climate change", "Bollywood", "racquetball", "Bob Ross"
+    ],
+
+    "reaction": [
+        "doesn't seem to be impressed",
+        "seems tired of that sort of thing",
+        "is overjoyed",
+        "ignores it",
+        "quits and never comes back",
+        "laughs",
+        "says 'lmao'",
+        "says 'lol'",
+        "says 'heh'",
+        "says 'wow'",
+        "says 'great'",
+        "says 'ha'",
+        "says 'hahahaha'",
+        "says '10/10'",
+        "doesn't say anything",
+        "seems unimpressed",
+        "has seen that one before",
+        "replies with a related meme",
+        "seems uncomfortable",
+        "says 'perfect'",
+        "seems to like it",
+        "really likes it",
+        "changes the subject",
+        "seems confused",
+        "seems to really like it",
+        "wants to talk about it",
+        "expresses interest",
+        "hasn't said anything in a long time",
+        "responds with a shruggie",
+        "reacts with a table flip",
+        "can't seem to handle it"
+    ],
+
+    "goodorbad": [
+        "Nobody reacts",
+        "It gets a good reaction",
+        "#person# laughs at it",
+        "Everyone thinks it's bad",
+        "It gets a weak reaction",
+        "Everyone agrees that it's really funny",
+        "Everyone thinks it's really interesting",
+        "Everyone laughs at it",
+        "Everyone thinks it's great",
+        "It completely kills the conversation and nobody says anything for a long time",
+        "It starts a good conversation with #person#",
+        "#person# and #person# talk about it later"
+    ],
+
+    "POST": [
+        "#person# posts a link to #post_format##topic#",
+        "#person# sends a link to #post_format##topic#. #person# #reaction#",
+        "#person# posts a link to #post_format##topic#. #person# #reaction#",
+        "#person# posts a link to #post_format##topic#. #goodorbad#",
+        "#person# posts a link to #post_format##topic#. #goodorbad#",
+        "#person# sends #post_format##topic#",
+        "#person# posts #post_format##topic#",
+        "#person# posts #pic_format##pic_subject#",
+        "#person# sends #pic_format##pic_subject#",
+        "#person# posts #pic_format##pic_subject#"
+
+    ],
+
+    "post_format": [
+        "a tumblr page about ", "a reddit thread about ", "a tweet about ", "something from the reddit frontpage about ", "an article about ", "an advertisement for ", "a facebook rant about ", "a news article about ", "a youtube video about ", "a huffington post article about ", "a buzzfeed article about ", "a New York Times article about ", "an /r/showerthoughts thing about ", "a thing about ", "a phone screenshot with something about ", "a vlog about ", "a blog about ", "a pinterest board about ", "a gif making fun of ", "something about ", "something from the internet about ", "some thing about t", "a video about ", "an XKCD comic about ", "a meme about ", "something from the news about ", "a wikipedia article about ", "one of those stupid quizes about ", "a podcast about ", "a clickbait article about "
+    ],
+
+    "pic_format": [
+        "a picture of ",
+        "a picture of ",
+        "a picture of ",
+        "a picture of ",
+        "a picture of ",
+        "an Imgur picture of ",
+        "a gif of ",
+        "a .jpg of ",
+        "a drawing of ",
+        "a photo of ",
+        "a photoshop of ",
+        "a panoramic photo of ",
+        "a link to one of those 360 videos about "
+    ],
+
+    "pic_subject": [
+        "a hand fruit",
+        "an iPad",
+        "a bagel",
+        "a random person",
+        "a random person making a weird face",
+        "Jeff Goldblum",
+        "an egg",
+        "a delicious breakfast featuring eggs",
+        "that character from Undertale",
+        "Harry Potter",
+        "a pair of running shoes",
+        "an IPA",
+        "a double IPA",
+        "a vacation destination",
+        "a Pokemon",
+        "the Bible",
+        "a yad",
+        "a hammock",
+        "a politician",
+        "a unicorn",
+        "some llamas that got loose once",
+        "Steve Buscemi",
+        "6-hour board games",
+        "'Krampus'",
+        "a Bob Ross painting"
+    ],
+
+
+
+    "CONVO": [
+        "#person# says #specific_thing#",
+        "#person# says #specific_thing#",
+        "#person# says #specific_thing#. #person# says #specific_thing#",
+        "#person# says #specific_thing#. #person# says #specific_thing#",
+        "#person# wants to talk about #topic#", "#person# has a question about #topic#",
+        "#person# wants to talk about #topic#",
+        "#person# wants to talk about #topic#. #person# ignores it",
+        "#person# wants to talk about #topic#, but nobody else wants to",
+        "#person# wants to talk about #topic#. #person# #reaction#",
+        "#person# says a couple things about #topic#. #person# #reaction#",
+        "#person# wants to talk about #topic#. #person# #reaction#",
+        "#person# starts talking about #topic#",
+        "#person# starts talking about #topic#",
+        "#person# starts talking about #topic#. #person# #reaction#",
+        "#person# starts talking about #topic#. #person# #reaction#",
+        "#person# says something about #topic#",
+        "#person# says something about #topic#",
+        "#person# lets everyone know #statusreport#",
+        "#person# lets everyone know #statusreport#",
+        "#person# lets everyone know #statusreport#. #person# #reaction#",
+        "#person# lets everyone know #statusreport#. #person# #reaction#",
+        "#person# wants a status report. #person# says #statusreport#",
+        "#person# wants a status report. #person# says #statusreport#",
+        "#person# has a physical ailment for Andrew to diagnose. #dr_andrew_availability#",
+        "#parent# shares a parenting story. #person# #reaction#"
+
+    ],
+
+    "specific_thing": [
+        "'There are cupcakes at work today!'","'That's hipster af'","'hi'","'hi everybody'","'STATUS REPORT'","'sweet confession' and posts a picture of a cookie","'sweet confession' and posts a picture of a cupcake","'sweet confession' and posts a picture of a fancy desert","'venison is not a casual meat'","'me irl'","'my microwave is weird'","'T H I C C'", "'darkest timeline'", "'preventing autoplay'", "'when carl plays racquetball does he just crumple up discarded dissertation drafts to use as balls'", "'holy moly'", "'Charlie /Meryl Streep'", "'tiny Easter burgers' ", "'McKaren Murphy O'Donnel won the Mrs Irish dance contest'"
+    ],
+
+    "parent": [
+        "Tom", "Lori", "Ned", "Christina"
+    ],
+    "dr_andrew_availability": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Andrew won't see this for a few days",
+        "Andrew is busy"
+    ],
+
+
+
+    "statusreport": [
+        "that there are cupcakes there",
+        "that there is food there",
+        "that it's a boring day",
+        "that it's a busy day",
+        "that it's a good day to read lots of articles online"
+    ],
+
+    "MEME": [
+        "#person# posts a #memes# meme",
+        "#person# posts a #memes# meme about #topic#",
+        "#person# posts a #memes# meme about #topic#",
+        "#person# posts a #memes# meme about #topic#",
+        "#person# posts a #memes# meme about #topic#, but nobody can figure out what it means",
+        "#person# posts a #memes# meme about #topic#.  #memeresult#",
+        "#person# posts a #memes# meme about #topic#.  #memeresult#",
+        "#person# posts a #memes# meme about #topic#.  #memeresult#"
+    ],
+
+    "memeresult": ["#person# #reaction#", "#goodorbad#"],
+
+    "memes": ["'windows startup sound slowed down to 24 hours'",
+        "Spongebob",
+        "Patrick from Spongebob",
+        "bone-hurting juice",
+        "Willy Wonka",
+        "doge",
+        "roll safe 'you can't ___ if you don't ___'",
+        "mind expansion",
+        "'wednesday my dudes'",
+        "sparta",
+        "skeleton",
+        "Sonic the Hedgehog",
+        "renaissance painting",
+        "'speed up every time x happens'",
+        "Space Jam",
+        "Star Trek",
+        "Star Wars",
+        "My Little Pony",
+        "Dr. Phil",
+        "Doug",
+        "Batman",
+        "'when you ____'",
+        "philosoraptor",
+        "distracted boyfriend"
+    ],
+
+    "LURK": [
+        "#person# hasn't said anything in a long time",
+        "#person#'s chat head keeps quietly popping up"
+    ],
+
+    "MINESWEEPER": ["Robin gets a score of #MINESCORE# seconds in minesweeper"],
+    "MINESCORE": [
+        "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99"
+    ],
+
+    "VIDEOACCIDENT": [
+        "#person# accidentally makes a video call.  #videoaccidentremark#",
+        "#person# accidentally makes a video call"
+    ],
+    "videoaccidentremark": [
+        "Nobody answers",
+        "Nobody answers",
+        "Nobody answers",
+        "Nobody answers",
+        "#person# answers, but nothing is said and they both hang up",
+        "They quickly hang up and say they didn't mean to do it"
+    ],
+
+    "CHATNAME": [
+        "#person# changes the chat name to #namesofchat#",
+        "#person# changes the name of the chat to #namesofchat#",
+        "#person# changes the chat name to #namesofchat#. #person# #reaction#",
+        "#person# changes the name of the chat to #namesofchat#. #person# #reaction#"
+
+    ],
+    "namesofchat": [
+        "'Work Chat'",
+        "'Happy Friday'",
+        "'Happy ThChristgiving'",
+        "'Monday Chat'",
+        "'Tuesday Chat'",
+        "'Wednesday Chat'",
+        "'Thursday Chat'",
+        "'Friday Chat'",
+        "'Happy Friday'",
+        "'Bagel Chat'",
+        "'Boring Monday Chat'",
+        "'Boring Tuesday Chat'",
+        "'Boring Wednesday Chat'",
+        "'Boring Thursday Chat'",
+        "'Wrak Chet'",
+        "'Wark Chot'"
+
+    ]
+
+}
